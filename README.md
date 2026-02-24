@@ -1,1 +1,1 @@
-Welcome to my portfolio. You are viewing a profile focused on AI and the creation of projects that have achieved top-tier recognition, including ranking in the Top 20 of the Alura & Google Challenge and being presented live on stage at Oracle-SP.
+Welcome to my portfolio. You are viewing a profile focused on AI and the creation of projects that have achieved top-tier recognition, including ranking in the Top 20 of the Alura & Google Challenge 2025 and being presented live on stage at Oracle-SP 2026.
