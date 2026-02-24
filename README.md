@@ -1,2 +1,1 @@
-prazer em ter você vendo o meu portfólio.  você estará vendo um perfil focado em IA. e criação de projetos que conseguimos chegar no top20 no campeonato da Alura com a Gooogle e que apresentou um projeto no palco da Oracle-sp
-
+Welcome to my portfolio. You are viewing a profile focused on AI and the creation of projects that have achieved top-tier recognition, including ranking in the Top 20 of the Alura & Google Challenge and being presented live on stage at Oracle-SP.
